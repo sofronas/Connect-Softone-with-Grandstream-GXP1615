@@ -1,4 +1,4 @@
-# Softone make phone call via Grandstream device (GXP1615)
+# SoftOne make phone call via Grandstream device (GXP1615)
 Call from Softone tab with one click
 
 ## Before we start
