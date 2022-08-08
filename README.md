@@ -3,7 +3,7 @@ Call from Softone tab with one click
 
 ## Before we start
 We need to add command at our system. <br/>
-1. Download the file (entoli.exe) <br/>
+1. Download the file [entoli.exe](https://github.com/sofronas/SoftOne-make-phone-call-via-Grandstream-device-GXP1615-/releases/download/Release/entoli.rar) <br/>
 2. Add the file path at your command system.
 	- Store file at specific path you desire. For example, C:\Softone\.
 	- Right click at your computer, or open **SETTINGS** and **SYSTEM**, **INFORMATION**, **SYSTEM PROTECTION**.
